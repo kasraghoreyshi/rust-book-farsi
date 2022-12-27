@@ -4,9 +4,7 @@
 میتونید نسخه زبان اصلی این کتاب رو از این [آدرس](https://doc.rust-lang.org/book/) بخونید.
 
 ## پیشنیاز
-برای ساخت و مطالعه کتاب به شکل محلی، باید mdBook رو از این [آدرس](mdBook) نصب کنید، یا از دستور زیر برای نصب از طریق Cargo استفاده کنید.
-
-[mdBook]: https://github.com/rust-lang/mdBook/releases
+برای ساخت و مطالعه کتاب به شکل محلی، باید mdBook رو از این [آدرس](https://github.com/rust-lang/mdBook/releases) نصب کنید، یا از دستور زیر برای نصب از طریق Cargo استفاده کنید.
 
 ```bash
 $ cargo install mdbook
