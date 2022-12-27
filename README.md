@@ -1,4 +1,11 @@
 # کتاب زبان برنامه‌نویسی Rust (ترجمه فارسی)
+
+<p align="end">
+  <img alt="Star" src="https://persian-badge.vercel.app/api/github/stars/sorensha/rust-book-farsi">
+  <img alt="Contributors" src="https://persian-badge.vercel.app/api/github/contributors/sorensha/rust-book-farsi">
+</p>
+  
+
 این پروژه اولین ترجمه من و دوست عزیزم، شایان هستش، طبیعتا مثل هر چیزی خالی از اشکال نیست، امید‌ داریم این پروژه مفید واقع بشه.
 
 میتونید نسخه زبان اصلی این کتاب رو از این [آدرس](https://doc.rust-lang.org/book/) بخونید.
