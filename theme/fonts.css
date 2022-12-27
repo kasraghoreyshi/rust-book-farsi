@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Vazir;
+    src: url(assets/Vazir.woff);
+}
+
+@font-face {
+    font-family: Monaco;
+    src: url(assets/Monaco.ttf);
+}
+
+body {
+    font-family: "Vazir"
+}
+
+code {
+    font-family: "Monaco" !important
+}

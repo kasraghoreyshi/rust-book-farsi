@@ -1,0 +1,13 @@
+[book]
+authors = ["Steve Klabnik", "Carol Nichols"]
+language = "fa"
+src = "src"
+title = "زبان برنامه‌نویسی Rust"
+
+[output.html]
+default-theme = "rust"
+additional-css = ["theme/index.css", "theme/fonts.css"]
+
+[output.html.font]
+enable = true
+woff = true

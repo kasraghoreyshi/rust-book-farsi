@@ -1,0 +1,12 @@
+html {
+    direction: rtl;
+}
+
+code {
+    direction: ltr;
+}
+
+.theme-popup {
+    width: 100px;
+    right: 10px;
+}
